@@ -1,0 +1,6 @@
+
+###### Requirements without Version Specifiers ######
+fastapi
+uvicorn[standart]
+###### Requirements with Version Specifiers ######
+#pytest == 6.2.5
